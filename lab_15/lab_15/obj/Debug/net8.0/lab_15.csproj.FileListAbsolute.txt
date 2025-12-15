@@ -1,0 +1,14 @@
+C:\Users\12\Downloads\lab_15\lab_15\obj\Debug\net8.0\lab_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12\Downloads\lab_15\lab_15\obj\Debug\net8.0\lab_15.AssemblyInfoInputs.cache
+C:\Users\12\Downloads\lab_15\lab_15\obj\Debug\net8.0\lab_15.AssemblyInfo.cs
+C:\Users\12\Downloads\lab_15\lab_15\obj\Debug\net8.0\lab_15.csproj.CoreCompileInputs.cache
+C:\Users\12\Downloads\lab_15\lab_15\bin\Debug\net8.0\lab_15.exe
+C:\Users\12\Downloads\lab_15\lab_15\bin\Debug\net8.0\lab_15.deps.json
+C:\Users\12\Downloads\lab_15\lab_15\bin\Debug\net8.0\lab_15.runtimeconfig.json
+C:\Users\12\Downloads\lab_15\lab_15\bin\Debug\net8.0\lab_15.dll
+C:\Users\12\Downloads\lab_15\lab_15\bin\Debug\net8.0\lab_15.pdb
+C:\Users\12\Downloads\lab_15\lab_15\obj\Debug\net8.0\lab_15.dll
+C:\Users\12\Downloads\lab_15\lab_15\obj\Debug\net8.0\refint\lab_15.dll
+C:\Users\12\Downloads\lab_15\lab_15\obj\Debug\net8.0\lab_15.pdb
+C:\Users\12\Downloads\lab_15\lab_15\obj\Debug\net8.0\lab_15.genruntimeconfig.cache
+C:\Users\12\Downloads\lab_15\lab_15\obj\Debug\net8.0\ref\lab_15.dll
